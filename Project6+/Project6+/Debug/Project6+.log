@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\ПГУ\2 курс\ЛиОАвИЗ\Project6+\Project6+\Source.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+D:\ПГУ\2 курс\ЛиОАвИЗ\Project6+\Project6+\Source.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+D:\ПГУ\2 курс\ЛиОАвИЗ\Project6+\Project6+\Source.cpp(58,27): warning C4018: '<': signed/unsigned mismatch
+D:\ПГУ\2 курс\ЛиОАвИЗ\Project6+\Project6+\Source.cpp(87,27): warning C4018: '<': signed/unsigned mismatch
+  Project6+.vcxproj -> D:\ПГУ\2 курс\ЛиОАвИЗ\Project6+\Debug\Project6+.exe
